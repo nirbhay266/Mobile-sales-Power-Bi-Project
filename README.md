@@ -30,14 +30,16 @@ This project is designed to provide a comprehensive view of phone sales across d
 Here are the key visuals of the dashboard:
 
 ### 1. **Year-over-Year (YoY) Sales Comparison**
-![YoY Sales Comparison](https://github.com/nirbhay266/Mobile-sales-Power-Bi-Project/blob/main/01.png)
+![Full Dashboard](https://github.com/nirbhay266/Mobile-sales-Power-Bi-Project/blob/main/01.png)
 
 
 ### 2. **MTD (Month-to-Date) Sales Performance**
 ![MTD Sales](https://github.com/nirbhay266/Mobile-sales-Power-Bi-Project/blob/main/02.png)
 
 ### 3. **Full Interactive Dashboard**
-![Full Dashboard](https://github.com/nirbhay266/Mobile-sales-Power-Bi-Project/blob/main/03.png)
+![YoY Sales Comparison](https://github.com/nirbhay266/Mobile-sales-Power-Bi-Project/blob/main/03.png)
+
+
 
 
 ---
