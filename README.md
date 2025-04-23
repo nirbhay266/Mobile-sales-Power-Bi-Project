@@ -73,9 +73,8 @@ Feel free to open an issue or leave a comment for any suggestions or improvement
 ---
 
 ## 🔗 **Contact Me**
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
-- GitHub: [Your GitHub Profile](https://github.com/your-username)
-- Email: your-email@example.com
+- LinkedIn: https://www.linkedin.com/in/nirbhay-kumar-32b947262/
+- Email: your-nirbhaykkr6@gmail.com
 
 ---
 
